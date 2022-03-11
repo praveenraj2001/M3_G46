@@ -76,14 +76,14 @@
 
 # 3 Architecture
 * ##  i Behavioral Diagram
-    * ### a High Level Flow chart Behavioral Diagram
+    * ### a. High Level Flow chart Behavioral Diagram
     ![HLFBD](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/HLFBD_BG.png)
-    * ### b Low Level Flow chart Behavioral Diagram
+    * ### b. Low Level Flow chart Behavioral Diagram
     ![LLFBD](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/LLFBD_BG.png)
 * ## ii Structural Diagram
-    * ### a High Level UML Use Case Structural Diagram
+    * ### a. High Level UML Use Case Structural Diagram
     ![HL_UML](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/HL_UML.png)
-    * ### b Low Level UML Use Case Structural Diagram
+    * ### b. Low Level UML Use Case Structural Diagram
     ![LL_UML](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/LL_UML.png)
 ---
 
