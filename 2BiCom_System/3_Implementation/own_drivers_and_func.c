@@ -12,6 +12,7 @@ void my_delay_ms(uint32_t time) // this is
 	for (uint32_t i = 0; i < (time * for_delay); i++)
 	{
 		un_used_var++;
+		un_used_var %= un_used_var;
 	}
 }
 
