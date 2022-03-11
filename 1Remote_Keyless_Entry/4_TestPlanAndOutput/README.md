@@ -1,7 +1,7 @@
 
 # Test plan and output
 
-### Test plan is created and verified on both manual and automated manner
+### Test plan is created and verified
 
 ## HIGH LEVEL TEST PLAN / Integrated test plan
 
