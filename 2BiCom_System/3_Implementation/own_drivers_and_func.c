@@ -6,13 +6,13 @@
 #include "own_drivers_and_func.h"
 
 const int for_delay = 100000; // for delay initial values
-int un_used_var;
+int un_used_var1;
 void my_delay_ms(uint32_t time) // this is
 {								// for time = 1000 this gives delay of approx 1sec
 	for (uint32_t i = 0; i < (time * for_delay); i++)
 	{
-		un_used_var++;
-		un_used_var = un_used_var + (un_used_var/2);
+		un_used_var1++;
+		un_used_var1 = un_used_var1 + (un_used_var1/2);
 	}
 }
 
