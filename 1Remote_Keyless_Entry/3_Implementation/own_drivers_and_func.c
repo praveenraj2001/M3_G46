@@ -10,12 +10,12 @@ const int encrypt1 = 1;		  // for keeping encrypt1 as a constant throught the pr
 const int encrypt2 = 2;		  // for keeping encrypt2 as a constant throught the program
 const int encrypt3 = 3;		  // for keeping encrypt3 as a constant throught the program
 const int encrypt4 = 4;		  // for keeping encrypt4 as a constant throught the program
-
+int un_used_var;
 void my_delay_ms(uint32_t time) // this is
 {								// for time = 1000 this gives delay of approx 1sec
 	for (uint32_t i = 0; i < (time * for_delay); i++)
 	{
-		time = time;
+		un_used_var++;
 	}
 }
 
