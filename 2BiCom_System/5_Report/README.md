@@ -4,19 +4,19 @@
     1. Identifying features
     1. State of art
     1. 5W’s & 1H and S.W.O.T analysis
-2. Requirements
+1. Requirements
     1. High level requirements
-    2. Low level requirements
-3. Architecture
-    3. Behavioural Diagram
-        3. High Level Flow chart Behavioural Diagram
-        3. Low Level Flow chart Behavioural Diagram
-    3. Structural Diagram
-        3. High Level UML Use Case Structural Diagram
-        3. Low Level UML Use Case Structural Diagram
-4. Test plan and Output
-    4. High level test plan
-    4. Low level test plan
+    1. Low level requirements
+1. Architecture
+    1. Behavioural Diagram
+        1. High Level Flow chart Behavioural Diagram
+        1. Low Level Flow chart Behavioural Diagram
+    1. Structural Diagram
+        1. High Level UML Use Case Structural Diagram
+        1. Low Level UML Use Case Structural Diagram
+1. Test plan and Output
+    1. High level test plan
+    1. Low level test plan
 
 #  1 About the BiCom System
 ## 1.1 Description
