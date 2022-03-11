@@ -1,26 +1,44 @@
-# check Doc file for Complete Report
+# Table of content (V1.1)
+1. About the BiCom System
+    1. Description
+    1. Identifying features
+    1. State of art
+    1. 5W’s & 1H and S.W.O.T analysis
+1. Requirements
+    1. High level requirements
+    1. Low level requirements
+1. Architecture
+    1. Behavioural Diagram
+        1. High Level Flow chart Behavioural Diagram
+        1. Low Level Flow chart Behavioural Diagram
+    1. Structural Diagram
+        1. High Level UML Use Case Structural Diagram
+        1. Low Level UML Use Case Structural Diagram
+1. Test plan and Output
+    1. High level test plan
+    1. Low level test plan
 
 
 #  1 About the RKE
-## 1.1 Description
+## i Description
  * This Project is an __Remote keyless entry (RKE) system__,and is designed to remotely lock or unlock access to automobiles, RKE operates by broadcasting radio waves on a particular frequency unidirectionally,RKE systems implement encryption algorithms to prevent car thieves from intercepting and spoofing the telegrams
 
 ---
 
-## 1.2 Identifying features
+## ii Identifying features
  * It shall Lock the car when Button is pressed ONCE
  * It shall Unlock the car when Button is pressed TWICE
  * It shall activation/deactivation alarm when the Button is pressed THREE times
  * It shall approach light when the Button is pressed FOUR times
 
-## 1.3 State of art
+## iii State of art
  * The main focus point here is controlling the car remotely
  * And also securing our car with a reliable __Encryption System__
  * Now this two features are combined and made into one product i.e. __RKE__
  * As the world PACE-FORWARD our technology needs to catch up to the world  
 
 ---
-## 1.4 5W's & 1H and S.W.O.T analysis is in the below table 
+## iv 5W's & 1H and S.W.O.T analysis is in the below table 
 
 | 5W's & 1H | S.W.O.T analysis |
 | -------- | -------------- |
@@ -31,7 +49,7 @@
 ## 2 Requirements
 
 
-### 2.1 High Level Requirements
+### i High Level Requirements
 
 | ID | High Level Requirements |
 | -------- | -------------- |
@@ -41,7 +59,7 @@
 | HLR4 | It shall APPROACH LIGHT |
 
 
-### 2.2 Low Level Requirements
+### ii Low Level Requirements
 
 | ID | Low Level Requirements for HLR1|       |ID | Low Level Requirements for HLR2|
 | ----- | ----- | ---- |----- | ----- |
@@ -57,23 +75,23 @@
 
 
 # 3 Architecture
-* ##  3.1 Behavioral Diagram
-    * ### 3.1.1 High Level Flow chart Behavioral Diagram
+* ##  i Behavioral Diagram
+    * ### a High Level Flow chart Behavioral Diagram
     ![HLFBD](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/HLFBD_BG.png)
-    * ### 3.1.2 Low Level Flow chart Behavioral Diagram
+    * ### b Low Level Flow chart Behavioral Diagram
     ![LLFBD](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/LLFBD_BG.png)
-* ## 3.2 Structural Diagram
-    * ### 3.2.1 High Level UML Use Case Structural Diagram
+* ## ii Structural Diagram
+    * ### a High Level UML Use Case Structural Diagram
     ![HL_UML](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/HL_UML.png)
-    * ### 3.2.2 Low Level UML Use Case Structural Diagram
+    * ### b Low Level UML Use Case Structural Diagram
     ![LL_UML](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/LL_UML.png)
 ---
 
 # 4 Test plan and output
 
-### 4.1 Test plan is created and verified
+### Test plan is created and verified
 
-## 4.1 HIGH LEVEL TEST PLAN / Integrated test plan
+## i HIGH LEVEL TEST PLAN / Integrated test plan
 
 | Test ID | Description | Input | Expected output | Actual Output | 
 | --- | --- | --- | --- | --- | 
@@ -84,7 +102,7 @@
 | 05 |  ENCRYPTION | 1 OR 2 0R 3 0R 4 | encrypted data for 1/2/3/4 | encrypted data for 1/2/3/4 |
 
 
-## 4.2 LOW LEVEL TEST PLAN
+## ii LOW LEVEL TEST PLAN
 
 | Test ID (for LOCK)| Description | Input | Expected output | Actual Output | passed/not |
 | --- | --- | --- | --- | --- | --- |
