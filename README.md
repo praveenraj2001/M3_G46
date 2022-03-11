@@ -8,13 +8,13 @@
 
 ---
 
-For 1Remote_Keyless_Entry __Simulation Video__ press youtube image ➡
+For 1Remote_Keyless_Entry __Simulation Video__ press youtube image
   [![IMAGE ALT TEXT](https://github.com/praveenraj2001/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/youtube.png)](https://youtu.be/PhLEHPQDMe8 "Video Title")
 
 ---
 
 
-For 2BiCom_System __Simulation Video__ press youtube image ➡
+For 2BiCom_System __Simulation Video__ press youtube image
   [![IMAGE ALT TEXT](https://github.com/praveenraj2001/M2-EmbSys/blob/main/Project/6_ImagesAndVideos/youtube.png)](https://youtu.be/w128BLR0_Hc "Video Title")
 
 
