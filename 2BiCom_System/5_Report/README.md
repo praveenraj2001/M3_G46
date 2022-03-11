@@ -1,4 +1,4 @@
-# Table of content (V1.2)
+# Table of content (V1.1)
 1. About the BiCom System
     1. Description
     1. Identifying features
@@ -19,24 +19,24 @@
     1. Low level test plan
 
 #  1 About the BiCom System
-## 1.1 Description
+## i Description
  * This Project is an __BiCom System__,and is designed to remotely know the statues of your automobiles, BiCom System operates by broadcasting radio waves on a particular frequency Bidirectionally.
 
 ---
 
-## 1.2 Identifying features
+## ii Identifying features
  * It shall print __window status__ of the car when Button is pressed ONCE
  * It shall print __alarm status__ the car when Button is pressed TWICE
  * It shall print __car battery info__ when the Button is pressed THREE times
  * It shall print __door status__ of the car when the Button is pressed FOUR times
 
-## 1.3 State of art
+## iii State of art
  * The main focus point here is knowing status of the car remotely
  * Now this two features is made into one product i.e. __BiCom System__
  * As the world PACE-FORWARD our technology needs to catch up to the world  
 
 ---
-## 1.4 5W's & 1H and S.W.O.T analysis is in the below table 
+## iv 5W's & 1H and S.W.O.T analysis is in the below table 
 
 | 5W's & 1H | S.W.O.T analysis  |
 | -------- | -------------- |
@@ -46,7 +46,7 @@
 
 ## 2 Requirements
 
-### 2.1 High Level Requirements
+### i High Level Requirements
 
 | ID | High Level Requirements |
 | -------- | -------------- |
@@ -56,7 +56,7 @@
 | HLR4 | It shall print DOOR STATUS OF THE CAR |
 
 
-### 2.2 Low Level Requirements
+### ii Low Level Requirements
 
 | ID | Low Level Requirements for HLR1|       |ID | Low Level Requirements for HLR2|
 | ----- | ----- | ---- |----- | ----- |
@@ -72,15 +72,15 @@
 
 
 #  3 Architecture
-* ##  3.1 Behavioral Diagram
-    * ### 3.1.1 High Level Flow chart Behavioral Diagram
+* ##  i Behavioral Diagram
+    * ### a High Level Flow chart Behavioral Diagram
     ![HLFBD](https://github.com/praveenraj2001/M3_G46/blob/main/2BiCom_System/6_ImagesAndVideos/HLFBD_BG.png)
-    * ### 3.1.2Low Level Flow chart Behavioral Diagram
+    * ### b Low Level Flow chart Behavioral Diagram
     ![LLFBD](https://github.com/praveenraj2001/M3_G46/blob/main/2BiCom_System/6_ImagesAndVideos/LLFBD_BG.png)
-* ## 3.2 Structural Diagram
-    * ### 3.2.1 High Level UML Use Case Structural Diagram
+* ## ii Structural Diagram
+    * ### a High Level UML Use Case Structural Diagram
     ![HL_UML](https://github.com/praveenraj2001/M3_G46/blob/main/2BiCom_System/6_ImagesAndVideos/HL_UML.png)
-    * ### 3.2.2 Low Level UML Use Case Structural Diagram
+    * ### b Low Level UML Use Case Structural Diagram
     ![LL_UML](https://github.com/praveenraj2001/M3_G46/blob/main/2BiCom_System/6_ImagesAndVideos/LL_UML.png)
 ---
 
@@ -89,7 +89,7 @@
 
 ### Test plan is created and verified
 
-## 4.1 HIGH LEVEL TEST PLAN / Integrated test plan
+## i HIGH LEVEL TEST PLAN / Integrated test plan
 
 | Test ID | Description | Input | Expected output | Actual Output | 
 | --- | --- | --- | --- | --- | 
@@ -100,7 +100,7 @@
 
 
 
-## 4.2 LOW LEVEL TEST PLAN
+## ii LOW LEVEL TEST PLAN
 
 | Test ID (for Print Window Status)| Description | Input | Expected output | Actual Output | passed/not |
 | --- | --- | --- | --- | --- | --- |
