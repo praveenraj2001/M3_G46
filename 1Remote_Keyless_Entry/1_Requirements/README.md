@@ -20,7 +20,7 @@
 ---
 ## 5W's & 1H and S.W.O.T analysis is in the below table 
 
-| 5W's & 1H | S.W.O.T analysis  |
+| 5W's & 1H | S.W.O.T analysis |
 | -------- | -------------- |
 | ![5W1H](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/5W1H.png) | ![SWOT](https://github.com/praveenraj2001/M3_G46/blob/main/1Remote_Keyless_Entry/6_ImagesAndVideos/SWOT.png)|
 
