@@ -10,7 +10,7 @@
 | 01 | Print Window Status | USER BUTTON PRESS ONCE  | Shall Print Window Status of the car | Shall Print Window Status the of car  | 
 | 02 | Print Alarm Status | USER BUTTON PRESS TWICE | Shall Print Alarm Status of the car |  Shall Print Alarm Status of the car | 
 | 03 | Print Car Battery Info | USER BUTTON PRESS THREE TIMES | Shall Print Car Battery Info | Shall Print Car Battery Info |
-| 04 | Print Door status | Shall Print Door status of the car |  | Shall Print Door status of the car  |
+| 04 | Print Door status | USER BUTTON PRESS FOUR TIMES | Shall Print Door status of the car | Shall Print Door status of the car  |
 
 
 
