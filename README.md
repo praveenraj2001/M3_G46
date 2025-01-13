@@ -24,7 +24,7 @@ For 2BiCom_System __Simulation Video__ press youtube image
 |---|---|
 | 1Remote_Keyless_Entry CODE in 3_Implementation | Nyalam Praveenraj |
 | 1Remote_Keyless_Entry Git Repo | Nyalam Praveenraj |
-| 2BiCom_System ONLY CODE in 3_Implementation | By bashaboina Naresh, Varun S, Mantra G |
+| 2BiCom_System CODE in 3_Implementation | By bashaboina Naresh, Varun S, Mantra G |
 | 2BiCom_System Git Repo | Nyalam Praveenraj |
 
 
